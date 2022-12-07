@@ -1,0 +1,11 @@
+#ifndef PROJ_FONCTION_H
+#define PROJ_FONCTION_H
+void jeulogo();
+void slogan();
+int rando3();
+int rando2();
+void niveau_naif_joueur();
+void niveau_naif_ordi();
+void niveau_expert_ordi();
+void niveau_expert_joueur();
+#endif //PROJ_FONCTION_H
